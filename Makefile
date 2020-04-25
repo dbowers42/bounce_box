@@ -1,4 +1,4 @@
-render:
+render: clean
 	povray config/render.ini
 
 frames: clean
